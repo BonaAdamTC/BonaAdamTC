@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bonaventure Attado
+- 👋 Hi, I am @Bonaventure Attado
 - 👀 I’m interested in data analysis, web development, and leveraging Python to solve complex challenges.
 - 🌱 I’ve recently completed a course in Python programming and AI, enhancing my data manipulation and automation skills.
 - 💞️ I’m looking to collaborate on data-driven projects, web applications, or anything involving innovative problem-solving with Python.
